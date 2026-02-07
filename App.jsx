@@ -180,7 +180,7 @@ export default function App() {
   );
 
   const questionText3 = useInfiniteTypewriter(
-    "Happy Valentine’s Day, My Love #RGForever 💖",
+    "Happy Valentine’s Day, My Love #TUSHITHA 💖",
     70,
     2000
   );
